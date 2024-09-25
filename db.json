@@ -1,0 +1,32 @@
+{
+  "employees": [
+    {
+      "employeeNo": "121",
+      "name": "gouri",
+      "city": "indore",
+      "salary": "82000",
+      "id": "27b4"
+    },
+    {
+      "employeeNo": "45",
+      "name": "aadii",
+      "city": "vegas",
+      "salary": "2lakhs",
+      "id": "e056"
+    },
+    {
+      "employeeNo": "420",
+      "name": "aditya",
+      "city": "airpotroad",
+      "salary": "15000",
+      "id": "70dd"
+    },
+    {
+      "id": "c32f",
+      "employeeNo": "ashdakjdshkla",
+      "name": "akjsdklajsdk",
+      "city": "asjdhaj",
+      "salary": "ihaakiuda"
+    }
+  ]
+}
